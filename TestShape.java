@@ -44,7 +44,7 @@ public class TestShape {
 
         // Calculate and display the average perimeter of the shapes
         double averagePerimeter = getAveragePerimeter(shapes);
-        System.out.printf("Average Perimeter = %.2f\n", averagePerimeter);
+        System.out.printf("\n\nAverage Perimeter = %.2f\n", averagePerimeter);
     }
 
     /**
